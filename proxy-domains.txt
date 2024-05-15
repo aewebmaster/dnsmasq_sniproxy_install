@@ -128,6 +128,7 @@ primevideo.info
 primevideo.org
 primevideo.tv
 pv-cdn.net
+api.snapcraft.io
 repo.mongodb.org
 ppa.launchpad.net
 deb.nodesource.com
@@ -135,4 +136,7 @@ download.docker.com
 ubuntu.bigbluebutton.org
 auth.docker.io
 registry-1.docker.io
+org.repo.release.build.10gen.cc
 production.cloudflare.docker.com
+deb.nodesource.com.cdn.cloudflare.net
+
