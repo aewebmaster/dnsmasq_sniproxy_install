@@ -128,3 +128,11 @@ primevideo.info
 primevideo.org
 primevideo.tv
 pv-cdn.net
+repo.mongodb.org
+ppa.launchpad.net
+deb.nodesource.com
+download.docker.com
+ubuntu.bigbluebutton.org
+auth.docker.io
+registry-1.docker.io
+production.cloudflare.docker.com
