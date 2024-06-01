@@ -113,6 +113,7 @@ saima.zlzd.xyz
 challenges.cloudflare.com
 ai.com
 openai.com
+api.openai.com
 cdn.oaistatic.com
 aiv-cdn.net
 aiv-delivery.net
